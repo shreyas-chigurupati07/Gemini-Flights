@@ -28,7 +28,7 @@ Before you begin, ensure you have the following installed on your system:
    
    Start by cloning the repository to your local machine. Use the following command:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/shreyas-chigurupati07/Gemini-Flights.git
    cd your-repository
 
 ## Set Up a Virtual Environment (Optional but recommended)
